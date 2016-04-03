@@ -1,0 +1,28 @@
+name: encinitaschurch
+favicon: null
+layout_spectrum: 0.9643395079765469
+typography_spectrum: 0.030388638377189636
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.02119854185730219
+  lightness: 0.14444980258122087
+  saturation: 0.2535753399133682
+  rhythmicContrast: 0.9168745211791247
+purpose: []
